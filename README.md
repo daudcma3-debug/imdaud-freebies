@@ -5,6 +5,7 @@ New resources are added with each Instagram post from [@imdaud](https://www.inst
 
 | Resource | Download |
 |---|---|
+| Month-End Close Checklist, AI-ready (16 Nov 2026) | [PDF](freebies/Month-End-Close-Checklist.pdf) |
 | CFO AI Stack Guide | [PDF](freebies/CFO-AI-Stack-Guide.pdf) |
 | Vendor SOA Recon Template | [PDF](freebies/Vendor-SOA-Recon-Template.pdf) |
 | KSA Finance Compliance Calendar | [PDF](freebies/KSA-Finance-Compliance-Calendar.pdf) |
