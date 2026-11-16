@@ -5,6 +5,7 @@ New resources are added with each Instagram post from [@imdaud](https://www.inst
 
 | Resource | Download |
 |---|---|
+| ZATCA Wave 25 Readiness Checklist (16 Nov 2026) | [PDF](freebies/ZATCA-Wave-25-Readiness-Checklist.pdf) |
 | Month-End Close Checklist, AI-ready (16 Nov 2026) | [PDF](freebies/Month-End-Close-Checklist.pdf) |
 | CFO AI Stack Guide | [PDF](freebies/CFO-AI-Stack-Guide.pdf) |
 | Vendor SOA Recon Template | [PDF](freebies/Vendor-SOA-Recon-Template.pdf) |
