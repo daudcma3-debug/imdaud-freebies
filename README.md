@@ -5,6 +5,7 @@ New resources are added with each Instagram post from [@imdaud](https://www.inst
 
 | Resource | Download |
 |---|---|
+| Variance Analysis Prompt Book, 15 prompts (16 Nov 2026) | [PDF](freebies/Variance-Analysis-Prompt-Book.pdf) |
 | Audit Red Flags Prompt Pack, 15 prompts (16 Nov 2026) | [PDF](freebies/Audit-Red-Flags-Prompt-Pack.pdf) |
 | AR Collections Message Pack (16 Nov 2026) | [PDF](freebies/AR-Collections-Message-Pack.pdf) |
 | ZATCA Wave 25 Readiness Checklist (16 Nov 2026) | [PDF](freebies/ZATCA-Wave-25-Readiness-Checklist.pdf) |
