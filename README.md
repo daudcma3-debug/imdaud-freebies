@@ -5,6 +5,7 @@ New resources are added with each Instagram post from [@imdaud](https://www.inst
 
 | Resource | Download |
 |---|---|
+| AP Cost-per-Invoice Calculator (17 Nov 2026) | [PDF](freebies/AP-Cost-per-Invoice-Calculator.pdf) |
 | ZATCA Fine-Waiver Clean-Up Checklist (17 Nov 2026) | [PDF](freebies/ZATCA-Fine-Waiver-Clean-Up-Checklist.pdf) |
 | AI Agent Register & SoD Matrix (17 Nov 2026) | [PDF](freebies/AI-Agent-Register-and-SoD-Matrix.pdf) |
 | Daily Cash Brief Template, 10 prompts (17 Nov 2026) | [PDF](freebies/Daily-Cash-Brief-Template.pdf) |
