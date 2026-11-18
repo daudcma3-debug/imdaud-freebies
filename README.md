@@ -5,6 +5,7 @@ New resources are added with each Instagram post from [@imdaud](https://www.inst
 
 | Resource | Download |
 |---|---|
+| AI Output Review Checklist (Tick & Tie), 20 checks + 6 prompts (18 Nov 2026) | [PDF](freebies/AI-Output-Review-Checklist.pdf) |
 | Open-Source Finance Agents Starter List (18 Nov 2026) | [PDF](freebies/Open-Source-Finance-Agents-Starter-List.pdf) |
 | Zakat Year-End Readiness Checklist (18 Nov 2026) | [PDF](freebies/Zakat-Year-End-Readiness-Checklist.pdf) |
 | AI Finance Vendor Due-Diligence Questionnaire, 30 questions (18 Nov 2026) | [PDF](freebies/AI-Finance-Vendor-Due-Diligence-Questionnaire.pdf) |
