@@ -5,6 +5,7 @@ New resources are added with each Instagram post from [@imdaud](https://www.inst
 
 | Resource | Download |
 |---|---|
+| Zakat Year-End Readiness Checklist (18 Nov 2026) | [PDF](freebies/Zakat-Year-End-Readiness-Checklist.pdf) |
 | AI Finance Vendor Due-Diligence Questionnaire, 30 questions (18 Nov 2026) | [PDF](freebies/AI-Finance-Vendor-Due-Diligence-Questionnaire.pdf) |
 | Cash Application Rulebook, 8 prompts (18 Nov 2026) | [PDF](freebies/Cash-Application-Rulebook.pdf) |
 | 5 n8n Finance Workflows Pack (17 Nov 2026) | [PDF](freebies/5-n8n-Finance-Workflows-Pack.pdf) |
