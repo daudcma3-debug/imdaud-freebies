@@ -5,6 +5,7 @@ New resources are added with each Instagram post from [@imdaud](https://www.inst
 
 | Resource | Download |
 |---|---|
+| Cash Application Rulebook, 8 prompts (18 Nov 2026) | [PDF](freebies/Cash-Application-Rulebook.pdf) |
 | 5 n8n Finance Workflows Pack (17 Nov 2026) | [PDF](freebies/5-n8n-Finance-Workflows-Pack.pdf) |
 | AP Cost-per-Invoice Calculator (17 Nov 2026) | [PDF](freebies/AP-Cost-per-Invoice-Calculator.pdf) |
 | ZATCA Fine-Waiver Clean-Up Checklist (17 Nov 2026) | [PDF](freebies/ZATCA-Fine-Waiver-Clean-Up-Checklist.pdf) |
