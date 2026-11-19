@@ -5,6 +5,7 @@ New resources are added with each Instagram post from [@imdaud](https://www.inst
 
 | Resource | Download |
 |---|---|
+| Otter.ai vs whisper.cpp: paid vs free meeting transcription (19 Nov 2026) | [PDF](freebies/Otter-vs-whisper-cpp-Guide.pdf) · [Page](posts/otter-vs-whisper-cpp.md) |
 | Claude for Excel Checklist, setup + 10 controls (19 Nov 2026) | [PDF](freebies/Claude-for-Excel-Checklist.pdf) |
 | AI Output Review Checklist (Tick & Tie), 20 checks + 6 prompts (18 Nov 2026) | [PDF](freebies/AI-Output-Review-Checklist.pdf) |
 | Open-Source Finance Agents Starter List (18 Nov 2026) | [PDF](freebies/Open-Source-Finance-Agents-Starter-List.pdf) |
