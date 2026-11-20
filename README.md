@@ -5,6 +5,7 @@ New resources are added with each Instagram post from [@imdaud](https://www.inst
 
 | Resource | Download |
 |---|---|
+| 7 free MCP reference servers + MCP Starter Guide: start commands, Claude Desktop config, what's archived (20 Nov 2026) | [PDF](freebies/MCP-Starter-Guide.pdf) · [Page](posts/mcp-reference-servers.md) · [Repo by the MCP project](https://github.com/modelcontextprotocol/servers) |
 | Claude Skills Starter Guide: Anthropic's free skills repo, install + build your own (19 Nov 2026) | [PDF](freebies/Claude-Skills-Starter-Guide.pdf) · [Repo by Anthropic](https://github.com/anthropics/skills) |
 | Otter.ai vs whisper.cpp: paid vs free meeting transcription (19 Nov 2026) | [PDF](freebies/Otter-vs-whisper-cpp-Guide.pdf) · [Page](posts/otter-vs-whisper-cpp.md) |
 | Claude for Excel Checklist, setup + 10 controls (19 Nov 2026) | [PDF](freebies/Claude-for-Excel-Checklist.pdf) |
