@@ -5,6 +5,7 @@ New resources are added with each Instagram post from [@imdaud](https://www.inst
 
 | Resource | Download |
 |---|---|
+| Superpowers Quick-Start Card: free MIT skills library for coding agents, install lines for Claude Code, the 7-step workflow, all 15 skills, telemetry opt-out (20 Nov 2026) | [PDF](freebies/Superpowers-Quick-Start-Card.pdf) · [Repo by Jesse Vincent / Prime Radiant](https://github.com/obra/superpowers) |
 | Claude Projects Setup Kit for Finance: 4 copy-paste project instructions (close, vendor recon, AR, board pack), what to upload, sharing checklist (20 Nov 2026) | [PDF](freebies/Claude-Projects-Setup-Kit.pdf) · [Guide by Anthropic](https://support.claude.com/en/articles/9519177-how-can-i-create-and-manage-projects) |
 | Textract vs Tesseract: paid vs free invoice OCR, prices as of 20 Nov 2026 + setup + controls (20 Nov 2026) | [PDF](freebies/Textract-vs-Tesseract-Guide.pdf) · [Page](posts/textract-vs-tesseract.md) |
 | 7 free MCP reference servers + MCP Starter Guide: start commands, Claude Desktop config, what's archived (20 Nov 2026) | [PDF](freebies/MCP-Starter-Guide.pdf) · [Page](posts/mcp-reference-servers.md) · [Repo by the MCP project](https://github.com/modelcontextprotocol/servers) |
