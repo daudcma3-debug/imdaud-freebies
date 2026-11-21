@@ -5,6 +5,7 @@ New resources are added with each Instagram post from [@imdaud](https://www.inst
 
 | Resource | Download |
 |---|---|
+| Community Claude Skills Starter Guide: 5 free skills from awesome-claude-skills (invoice organiser, file organiser, read-only Postgres, meeting insights, research writer), how to add a skill, 5-point safety check (21 Nov 2026) | [PDF](freebies/Community-Claude-Skills-Starter-Guide.pdf) · [Page](posts/awesome-claude-skills-picks.md) |
 | Artifacts for Finance: 5 copy-paste Claude artifact prompts (VAT calculator, cash runway, invoice ageing, loan schedule, budget vs actual), the known-answer test, storage & sharing notes (21 Nov 2026) | [PDF](freebies/Artifacts-for-Finance-Starter-Prompts.pdf) · [Guide by Anthropic](https://support.claude.com/en/articles/17153992) |
 | Calendly vs Cal.com Free: paid vs free booking links, prices as of 21 Nov 2026, free-plan limits, Cal.diy self-host notes, who should pick which (21 Nov 2026) | [PDF](freebies/Booking-Link-Paid-vs-Free-Guide.pdf) · [Page](posts/calendly-vs-calcom.md) |
 | Claude Cookbooks Starter Card for Finance: 5 free Anthropic code recipes (PDFs, form fields, JSON, classification, SQL) with direct links, what you need, 5 output checks (21 Nov 2026) | [PDF](freebies/Claude-Cookbooks-Starter-Card.pdf) · [Repo by Anthropic](https://github.com/anthropics/claude-cookbooks) |
