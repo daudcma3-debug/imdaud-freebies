@@ -5,6 +5,7 @@ New resources are added with each Instagram post from [@imdaud](https://www.inst
 
 | Resource | Download |
 |---|---|
+| MarkItDown Quick-Start Card: Microsoft's free MIT tool that turns PDF, Excel, Word, PowerPoint and more into Markdown for Claude — install, 3 commands, format list, Claude Desktop MCP config, finance safety checks (25 Nov 2026) | [PDF](freebies/MarkItDown-Quick-Start-Card.pdf) · [Repo by Microsoft](https://github.com/microsoft/markitdown) |
 | E-Signature: Paid vs Free — DocuSign vs Documenso: plan prices as of 25 Nov 2026, free-plan limits, Documenso self-host (AGPL-3.0), who should pick which, pre-signing checklist (25 Nov 2026) | [PDF](freebies/E-Signature-Paid-vs-Free-Guide.pdf) · [Page](posts/docusign-vs-documenso.md) |
 | Claude Connectors Safety Checklist for Finance: what connectors do, who can use them, add one in 5 steps, 12 checks before Claude touches your finance apps, custom-connector notes (25 Nov 2026) | [PDF](freebies/Claude-Connectors-Safety-Checklist.pdf) · [Guide by Anthropic](https://support.claude.com/en/articles/11176164) |
 | Community Claude Skills Starter Guide: 5 free skills from awesome-claude-skills (invoice organiser, file organiser, read-only Postgres, meeting insights, research writer), how to add a skill, 5-point safety check (21 Nov 2026) | [PDF](freebies/Community-Claude-Skills-Starter-Guide.pdf) · [Page](posts/awesome-claude-skills-picks.md) |
