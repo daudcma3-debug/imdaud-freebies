@@ -5,6 +5,7 @@ New resources are added with each Instagram post from [@imdaud](https://www.inst
 
 | Resource | Download |
 |---|---|
+| Claude Quickstarts Starter Card: Anthropic's free MIT starter apps for the Claude API — Financial Data Analyst, support agent, computer use, browser agent, daily brief — folder links, 5-step setup, pay-as-you-go note, 5 CMA rules (26 Nov 2026) | [PDF](freebies/Claude-Quickstarts-Starter-Card.pdf) · [Repo by Anthropic](https://github.com/anthropics/claude-quickstarts) |
 | PDF Tools: Paid vs Free — Adobe Acrobat Pro vs Stirling-PDF: prices as of 26 Nov 2026, tools compared, one-command Stirling self-host, who should pick which, 6 checks before switching (26 Nov 2026) | [PDF](freebies/PDF-Tools-Paid-vs-Free-Guide.pdf) · [Page](posts/acrobat-vs-stirling-pdf.md) |
 | MarkItDown Quick-Start Card: Microsoft's free MIT tool that turns PDF, Excel, Word, PowerPoint and more into Markdown for Claude — install, 3 commands, format list, Claude Desktop MCP config, finance safety checks (25 Nov 2026) | [PDF](freebies/MarkItDown-Quick-Start-Card.pdf) · [Repo by Microsoft](https://github.com/microsoft/markitdown) |
 | E-Signature: Paid vs Free — DocuSign vs Documenso: plan prices as of 25 Nov 2026, free-plan limits, Documenso self-host (AGPL-3.0), who should pick which, pre-signing checklist (25 Nov 2026) | [PDF](freebies/E-Signature-Paid-vs-Free-Guide.pdf) · [Page](posts/docusign-vs-documenso.md) |
