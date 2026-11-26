@@ -5,6 +5,7 @@ New resources are added with each Instagram post from [@imdaud](https://www.inst
 
 | Resource | Download |
 |---|---|
+| PDF Tools: Paid vs Free — Adobe Acrobat Pro vs Stirling-PDF: prices as of 26 Nov 2026, tools compared, one-command Stirling self-host, who should pick which, 6 checks before switching (26 Nov 2026) | [PDF](freebies/PDF-Tools-Paid-vs-Free-Guide.pdf) · [Page](posts/acrobat-vs-stirling-pdf.md) |
 | MarkItDown Quick-Start Card: Microsoft's free MIT tool that turns PDF, Excel, Word, PowerPoint and more into Markdown for Claude — install, 3 commands, format list, Claude Desktop MCP config, finance safety checks (25 Nov 2026) | [PDF](freebies/MarkItDown-Quick-Start-Card.pdf) · [Repo by Microsoft](https://github.com/microsoft/markitdown) |
 | E-Signature: Paid vs Free — DocuSign vs Documenso: plan prices as of 25 Nov 2026, free-plan limits, Documenso self-host (AGPL-3.0), who should pick which, pre-signing checklist (25 Nov 2026) | [PDF](freebies/E-Signature-Paid-vs-Free-Guide.pdf) · [Page](posts/docusign-vs-documenso.md) |
 | Claude Connectors Safety Checklist for Finance: what connectors do, who can use them, add one in 5 steps, 12 checks before Claude touches your finance apps, custom-connector notes (25 Nov 2026) | [PDF](freebies/Claude-Connectors-Safety-Checklist.pdf) · [Guide by Anthropic](https://support.claude.com/en/articles/11176164) |
