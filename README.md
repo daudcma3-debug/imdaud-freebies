@@ -5,6 +5,7 @@ New resources are added with each Instagram post from [@imdaud](https://www.inst
 
 | Resource | Download |
 |---|---|
+| Claude Memory Privacy Checklist for Finance: what Claude memory saves and never saves, where to view and edit it, project vs account memory, memory-off chat vs incognito, Team/Enterprise export and retention note, 8 checks before discussing client work (26 Nov 2026) | [PDF](freebies/Claude-Memory-Privacy-Checklist.pdf) · [Guide by Anthropic](https://support.claude.com/en/articles/11817273) |
 | Claude Quickstarts Starter Card: Anthropic's free MIT starter apps for the Claude API — Financial Data Analyst, support agent, computer use, browser agent, daily brief — folder links, 5-step setup, pay-as-you-go note, 5 CMA rules (26 Nov 2026) | [PDF](freebies/Claude-Quickstarts-Starter-Card.pdf) · [Repo by Anthropic](https://github.com/anthropics/claude-quickstarts) |
 | PDF Tools: Paid vs Free — Adobe Acrobat Pro vs Stirling-PDF: prices as of 26 Nov 2026, tools compared, one-command Stirling self-host, who should pick which, 6 checks before switching (26 Nov 2026) | [PDF](freebies/PDF-Tools-Paid-vs-Free-Guide.pdf) · [Page](posts/acrobat-vs-stirling-pdf.md) |
 | MarkItDown Quick-Start Card: Microsoft's free MIT tool that turns PDF, Excel, Word, PowerPoint and more into Markdown for Claude — install, 3 commands, format list, Claude Desktop MCP config, finance safety checks (25 Nov 2026) | [PDF](freebies/MarkItDown-Quick-Start-Card.pdf) · [Repo by Microsoft](https://github.com/microsoft/markitdown) |
